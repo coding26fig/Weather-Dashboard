@@ -1,13 +1,12 @@
-# Weather Dashboard 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Weather Dashboard
+My goal for this project was to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
+* [Deployed Link](#deployed-link)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Acceptance Criteria](#acceptance-criteria)
@@ -43,11 +42,8 @@ List the ready features here:
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+## Deployed Link
+https://coding26fig.github.io/Weather-dashboard/
 
 ## Usage
 How does one go about using it?
