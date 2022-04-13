@@ -10,10 +10,10 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acceptance Criteria]
+* [Acceptance Criteria](#acceptance-criteria)
 * [Acknowledgements](#acknowledgements)
-* [Contact]
-* [License]
+* [Contact](#contact)
+* [License](#license)
 
 
 ## General Information
