@@ -29,8 +29,7 @@ My goal for this project was to build a weather dashboard that will run in the b
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![image](https://user-images.githubusercontent.com/97489289/163406390-a5835c2c-30f7-4797-9d75-cc92193bbbe3.png)
 
 
 ## Deployed Link
@@ -52,10 +51,6 @@ Project is: Complete
 - THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 - WHEN I click on a city in the search history
 - THEN I am again presented with current and future conditions for that city
-
-
-
-
 
 ## Acknowledgements
 - Many thanks to https://github.com/treyeckels
