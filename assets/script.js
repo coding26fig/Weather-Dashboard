@@ -168,3 +168,5 @@ function init() {
   addEventListeners();
   populateButtons();
 }
+
+init();
