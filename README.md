@@ -4,10 +4,8 @@ My goal for this project was to build a weather dashboard that will run in the b
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Screenshots](#screenshots)
 * [Deployed Link](#deployed-link)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Acknowledgements](#acknowledgements)
