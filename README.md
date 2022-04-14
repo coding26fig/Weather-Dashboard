@@ -30,13 +30,6 @@ My goal for this project was to build a weather dashboard that will run in the b
 - OpenWeather API
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
-
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
@@ -44,13 +37,6 @@ List the ready features here:
 
 ## Deployed Link
 https://coding26fig.github.io/Weather-dashboard/
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
 
 ## Project Status
 Project is: Complete
@@ -74,10 +60,7 @@ Project is: Complete
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to https://github.com/treyeckels
 
 
 ## Contact
